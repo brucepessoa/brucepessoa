@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Bruce</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e R para análise de dados**
+- 🌱 POWER BI | PYTHON | ANÁLISE DE DADOS
 
-- 👨‍💻 Estou disposto a participar de projetos de **Ciência e Análise de Dados com Python e/ou R**
+- 👨‍💻 Estou disposto a participar de projetos de **Ciência e Análise de Dados com Python**
 
 - Você pode falar comigo em **brucepessoa@gmail.com**
 
